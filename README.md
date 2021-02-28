@@ -10,7 +10,7 @@
 ## Quick overview
 * GitHub stats:  
 <a href="https://github.com/orkunalkan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkunalkan&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkunalkan&langs_count=5&theme=dark" />
 </a>
 
 -------------------------------------------------------------------------

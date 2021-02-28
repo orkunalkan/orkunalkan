@@ -10,7 +10,7 @@
 * GitHub stats:  
 <p float="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkunalkan&langs_count=5&theme=dark" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=orkunalkan&show_icons=true&line_height=27&theme=dark&include_all_commits=true" alt="My github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=orkunalkan&theme=dark&show_icons=true&count_private=true&hide=contribs,issues" alt="orkunalkan's github stats" />
 </p>
 
 -------------------------------------------------------------------------

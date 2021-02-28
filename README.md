@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Object-Detection
-- :earth: [LinkedIn](https://www.linkedin.com/in/orkun-alkan/)
+- :earth_africa: [LinkedIn](https://www.linkedin.com/in/orkun-alkan/)
 
 ## Quick overview
 * GitHub stats:  

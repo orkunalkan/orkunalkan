@@ -19,7 +19,7 @@
 -------------------------------------------------------------------------
 
 ## How to find me :
-<a href="https://www.linkedin.com/in/orkun-alkan/">
+- <a href="https://www.linkedin.com/in/orkun-alkan/">
   <img align="left" alt="orkunalkan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 

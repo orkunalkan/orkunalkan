@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Object-Detection
-- - :LinkedIn: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+- :earth: [LinkedIn](https://www.linkedin.com/in/orkun-alkan/)
 
 ## Quick overview
 * GitHub stats:  

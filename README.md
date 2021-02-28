@@ -8,14 +8,12 @@
 
 ## Quick overview
 * GitHub stats:  
-<a href="https://github.com/orkunalkan/github-readme-stats">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkunalkan&langs_count=5&theme=dark" />
-</a>
-
--------------------------------------------------------------------------
+</p>
 
 <a href="https://github.com/orkunalkan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=orkunalkan&show_icons=true&line_height=27&theme=radical&include_all_commits=true" alt="My github stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=orkunalkan&show_icons=true&line_height=27&theme=dark&include_all_commits=true" alt="My github stats" />
 </a>  
 
 -------------------------------------------------------------------------

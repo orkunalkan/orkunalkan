@@ -1,8 +1,8 @@
-### Hi there 👋
+### 👋 Hi There 👋
 
 -------------------------------------------------------------------------
 
-- 🌱 I’m currently learning Object-Detection
+- 🌱 I’m currently learning Object-Detection in C++
 
 -------------------------------------------------------------------------
 
@@ -19,7 +19,8 @@
 -------------------------------------------------------------------------
 
 ## How to find me :
-- :earth_africa: [LinkedIn](https://www.linkedin.com/in/orkun-alkan/)
-
+<a href="https://www.linkedin.com/in/orkun-alkan/">
+  <img align="left" alt="orkunalkan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 -------------------------------------------------------------------------

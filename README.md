@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------
 
-- 🌱 I’m currently working on Object-Detection in C++
+- 🌱 I’m currently learning develop Web Applications
 
 -------------------------------------------------------------------------
 

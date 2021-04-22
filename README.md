@@ -21,10 +21,14 @@
 ## How to find me :
 - <a href="https://www.linkedin.com/in/orkun-alkan/">
   <img align="left" alt="orkunalkan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   LinkedIn
 </a>
+ 
+
 
 - <a href="https://www.hackerrank.com/orkunalkan98">
   <img align="left" alt="orkunalkan's HackerRank" width="22px" src="https://user-images.githubusercontent.com/44678771/109458895-c5e45980-7a6e-11eb-99ad-48bd36ce8678.png" />
+   HackerRank
 </a>
 
 

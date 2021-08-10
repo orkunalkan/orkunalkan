@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------
 
-- 🌱 I’m currently learning develop Web Applications
+- 🌱 I’m currently developing Web Applications with .NET
 
 -------------------------------------------------------------------------
 

@@ -1,7 +1,7 @@
 ### 👋 Hi There 👋
 
 -------------------------------------------------------------------------
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=orkunalkan&label=Profile%20views&color=0e75b6&style=flat" alt="orkunalkan" /> </p>
 - 🌱 I’m currently learning .NET Core
 
 -------------------------------------------------------------------------
